@@ -55,6 +55,16 @@ body {
   margin-bottom: 25vh;    
 }
 
+.activity-text {
+  font-size: 1rem;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.image {
+  margin-bottom: 2rem;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -617,9 +627,35 @@ progress {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  margin-top: 45vh;
+  margin-top: 43vh;
   font-size: 1.2rem;
 }
+
+.answer-container-fluid {
+  width: 100%;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  margin-top: 25vh;
+  font-size: 1.2rem;
+}
+
+.button-container-fluid {
+  bottom: 15vh;
+  position: absolute;
+  width: 100%;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  
+  font-size: 1.2rem;
+}
+
+
 
 .oroiyahiin-text {
   margin-bottom: 1em;
