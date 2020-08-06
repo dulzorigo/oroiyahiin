@@ -613,7 +613,7 @@ progress {
   margin-left: auto;
   text-align: center;
   margin-top: 45vh;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .oroiyahiin-text {
@@ -2831,8 +2831,9 @@ fieldset:disabled .btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #000000;
+  font-size: 0.8rem;
+  color: #000000;
+  background-color: #ffffff;
   border-color: #000000;
   border-radius: 0rem;
 }
@@ -2848,7 +2849,7 @@ fieldset:disabled .btn {
   color: rgb(0, 0, 0);
   background-color: #ffffff;
   border-color: #000000;
-  box-shadow: 0 0 0 0.2rem rgba(134, 134, 134, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(228, 228, 228, 0.5);
 }
 
 .btn-check:checked + .btn-primary,
@@ -2862,7 +2863,7 @@ fieldset:disabled .btn {
 .btn-check:checked + .btn-primary:focus,
 .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(134, 134, 134, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(228, 228, 228, 0.5);
 }
 
 .btn-primary:disabled, .btn-primary.disabled {
