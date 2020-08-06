@@ -47,7 +47,7 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background-color: #ffffff;
+  background-color: #00B0CD;
 }
 
 .answer {
@@ -657,7 +657,13 @@ progress {
 
 
 
+.thelink {
+  font-size: 1px;
+  color: white;
+}
+
 .oroiyahiin-text {
+  color: black;
   margin-bottom: 1em;
 }
 
@@ -5577,11 +5583,11 @@ button.close {
 }
 
 .bs-tooltip-top, .bs-tooltip-auto[x-placement^="top"] {
-  padding: 0.4rem 0;
+  padding: 1.4rem 0;
 }
 
 .bs-tooltip-top .tooltip-arrow, .bs-tooltip-auto[x-placement^="top"] .tooltip-arrow {
-  bottom: 0;
+  bottom: 1;
 }
 
 .bs-tooltip-top .tooltip-arrow::before, .bs-tooltip-auto[x-placement^="top"] .tooltip-arrow::before {

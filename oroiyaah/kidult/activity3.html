@@ -7,28 +7,36 @@
     <link rel="stylesheet" href="../../css/bootstrap.css">
 </head>
 <body>
-
     <div class="answer-container-fluid">
         <div class="image">
             <img src="meme.jpg" alt="meme" height="200px" width="200px">
         </div>
         <div class="activity-text">
-            <p>kidultiin gadaa maihan barii</p>
+            <p>kidultiin gadaa maihan barij daraagiin drop-doo beldii pls</p>
         </div>
     </div>
 
     <div class="button-container-fluid">
-        <button onclick="randomSite()" type="button" class="btn btn-primary">uur yahiin?</button>
+        <button onclick="copyToClipboard('#p1')" type="button" class="btn btn-primary" id="primary" data-toggle="tooltip" data-placement="top" title="Link copy-dloo">naizuud chn oroi yahiin?</button>
+    </div>
+
+    <div class="thelink">
+        <p id="p1">www.oroiyahiin.com</p>
     </div>
 
 
 
 
-
-
-    <script src="../../java.js"></script>
+    
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="../../js/bootstrap.js"></script>
+    <script src="../../java.js"></script>
+
+    <script>
+        $(function() {
+            $('#primary').tooltip();
+        });
+    </script>
 </body>
 </html>
