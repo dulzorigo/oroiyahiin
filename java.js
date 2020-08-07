@@ -2,7 +2,7 @@
         'oroiyaah/sekstsagaanbogd/activity1.html',
         'oroiyaah/zu/activity2.html',
         'oroiyaah/kidult/activity3.html',
-        // 'Add other template/activity directory here'
+        // ^^^ Add other template/activity directory here ^^^
 ];
 
 function randomSite() {
