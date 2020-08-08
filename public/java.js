@@ -2,6 +2,7 @@
         'oroiyaah/sekstsagaanbogd/activity1.html',
         'oroiyaah/zu/activity2.html',
         'oroiyaah/kidult/activity3.html',
+        'oroiyaah/01-template/template-activity.html',
         // ^^^ Add other template/activity directory here ^^^
 ];
 
