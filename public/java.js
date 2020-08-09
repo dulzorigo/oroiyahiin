@@ -1,8 +1,9 @@
  var sites = [
-        'oroiyaah/sekstsagaanbogd/activity1.html',
-        'oroiyaah/zu/activity2.html',
-        'oroiyaah/kidult/activity3.html',
-        'oroiyaah/01-template/template-activity.html',
+        'oroiyaah/lilthuge/lilthuge.html',
+        'oroiyaah/zu-01/zu.html',
+        'oroiyaah/kidult/kidult.html',
+        'oroiyaah/kanshifu/kanshifu.html',
+        'oroiyaah/ursuldugch-01/ursuldugch-01.html'
         // ^^^ Add other template/activity directory here ^^^
 ];
 
@@ -21,4 +22,4 @@ function copyToClipboard(element) {
 
 setTimeout(function() {
         $('#mydiv').hide();
-    }, 2000);
+    }, 3000);
