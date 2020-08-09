@@ -1,9 +1,11 @@
  var sites = [
         'oroiyaah/lilthuge/lilthuge.html',
-        'oroiyaah/zu-01/zu.html',
         'oroiyaah/kidult/kidult.html',
+        'oroiyaah/zu-01/zu-01.html',
+        'oroiyaah/husliin-zaluu/husliin-zaluu.html',
         'oroiyaah/kanshifu/kanshifu.html',
-        'oroiyaah/ursuldugch-01/ursuldugch-01.html'
+        'oroiyaah/ursuldugch-01/ursuldugch-01.html',
+        'oroiyaah/odoobolioo/odoo-bolioo.html',
         // ^^^ Add other template/activity directory here ^^^
 ];
 
