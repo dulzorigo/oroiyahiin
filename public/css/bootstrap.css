@@ -44,7 +44,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #F1FFFE;
+  background-color: white;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -637,12 +637,12 @@ progress {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  margin-top: 16vh;
+  margin-top: 20vh;
   font-size: 1.2rem;
 }
 
 .button-container-fluid {
-  bottom: 15vh;
+  bottom: 12vh;
   position: absolute;
   width: 100%;
   padding-right: 1rem;
@@ -650,11 +650,20 @@ progress {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  
   font-size: 1.2rem;
 }
 
-
+.prompt {
+    bottom: 9vh;
+    position: absolute;
+    width: 100%;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 1rem;
+}
 
 .thelink {
   margin-top: 5vh;
@@ -4691,6 +4700,8 @@ fieldset:disabled .btn {
 }
 
 .alert-info {
+  font-size: 1rem;
+  border-radius: 0rem;
   color: #0c5460;
   background-color: #d1ecf1;
   border-color: #bee5eb;

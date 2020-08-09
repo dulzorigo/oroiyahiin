@@ -18,3 +18,7 @@ function copyToClipboard(element) {
   document.execCommand("copy");
   $temp.remove();
 }
+
+setTimeout(function() {
+        $('#mydiv').hide();
+    }, 2000);
