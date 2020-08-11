@@ -637,7 +637,7 @@ progress {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  margin-top: 20vh;
+  margin-top: 5vh;
   font-size: 1.2rem;
 }
 
@@ -666,7 +666,7 @@ progress {
 }
 
 .thelink {
-  margin-top: 5vh;
+  margin-top: 25vh;
   font-size: 1rem;
   color: black;
   margin-right: auto;
