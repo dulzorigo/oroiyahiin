@@ -654,7 +654,7 @@ progress {
 }
 
 .prompt {
-    bottom: 9vh;
+    bottom: 2vh;
     position: absolute;
     width: 100%;
     padding-right: 1rem;
@@ -666,7 +666,7 @@ progress {
 }
 
 .thelink {
-  margin-top: 25vh;
+  margin-top: 15vh;
   font-size: 1rem;
   color: black;
   margin-right: auto;
@@ -4700,6 +4700,7 @@ fieldset:disabled .btn {
 }
 
 .alert-info {
+  text-align: center;
   font-size: 1rem;
   border-radius: 0rem;
   color: #0c5460;

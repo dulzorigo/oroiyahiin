@@ -1,13 +1,15 @@
  var sites = [
         'oroiyaah/lilthuge/lilthuge.html',
-        //'oroiyaah/kidult/kidult.html',
+        'oroiyaah/kidult/kidult.html',
         'oroiyaah/zu-01/zu-01.html',
         'oroiyaah/husliin-zaluu/husliin-zaluu.html',
         'oroiyaah/kanshifu/kanshifu.html',
         'oroiyaah/ursuldugch-01/ursuldugch-01.html',
         'oroiyaah/odoobolioo/odoo-bolioo.html',
         'oroiyaah/nomiinsan/nomiin-san.html',
-        'oroiyaah/hippocards/hippo.html'
+        'oroiyaah/hippocards/hippo.html',
+        'oroiyaah/odgerel/odgerel.html',
+        
         // ^^^ Add other template/activity directory here ^^^
 ];
 
@@ -24,6 +26,6 @@ function copyToClipboard(element) {
   $temp.remove();
 }
 
-setTimeout(function() {
-        $('#mydiv').hide();
-    }, 3000);
+//setTimeout(function() {
+//        $('#mydiv').hide();
+//    }, 3000);
