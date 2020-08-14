@@ -39,6 +39,7 @@
 
 body {
   margin: 0;
+  font-family: helvetics;
   font-family: var(--bs-font-sans-serif);
   font-size: 1rem;
   font-weight: 400;
@@ -626,8 +627,8 @@ progress {
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  margin-top: 43vh;
-  font-size: 1.2rem;
+  margin-top: 40vh;
+  font-size: 1rem;
 }
 
 .answer-container-fluid {
@@ -677,7 +678,7 @@ progress {
 
 .oroiyahiin-text {
   color: black;
-  margin-bottom: 14.5em;
+  margin-bottom: 15.5em;
 }
 
 @media (min-width: 576px) {
