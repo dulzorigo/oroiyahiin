@@ -9,6 +9,7 @@
         'oroiyaah/nomiinsan/nomiin-san.html',
         'oroiyaah/hippocards/hippo.html',
         'oroiyaah/odgerel/odgerel.html',
+        'oroiyaah/chih/chih.html',
         
         // ^^^ Add other template/activity directory here ^^^
 ];
